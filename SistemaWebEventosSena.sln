@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaWebEventosSena", "SistemaWebEventosSena\SistemaWebEventosSena.csproj", "{8EFECB4D-4897-42B9-973B-FD09B614DACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaWebEventosSena.Tests", "SistemaWebEventosSena.Tests\SistemaWebEventosSena.Tests.csproj", "{F691536E-5F0A-45DA-B4B4-2673BA35DC05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAD", "CAD\CAD.csproj", "{500188EC-070A-409B-BEA8-7D294A2934B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EFECB4D-4897-42B9-973B-FD09B614DACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFECB4D-4897-42B9-973B-FD09B614DACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFECB4D-4897-42B9-973B-FD09B614DACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFECB4D-4897-42B9-973B-FD09B614DACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F691536E-5F0A-45DA-B4B4-2673BA35DC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F691536E-5F0A-45DA-B4B4-2673BA35DC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F691536E-5F0A-45DA-B4B4-2673BA35DC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F691536E-5F0A-45DA-B4B4-2673BA35DC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500188EC-070A-409B-BEA8-7D294A2934B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500188EC-070A-409B-BEA8-7D294A2934B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500188EC-070A-409B-BEA8-7D294A2934B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500188EC-070A-409B-BEA8-7D294A2934B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
